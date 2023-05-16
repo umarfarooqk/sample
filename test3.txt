@@ -1,2 +1,6 @@
 test3 file
+<<<<<<< Updated upstream
 modified remote
+=======
+modified in local
+>>>>>>> Stashed changes
